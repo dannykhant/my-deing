@@ -1,0 +1,27 @@
+Customer_ID,Customer_Name,Age,Gender,Purchase_Amount,Purchase_Date
+101,John Doe,28,Male,250.50,2025-01-15
+102,Jane Smith,35,Female,310.00,2025-01-16
+103,Bob Johnson,,Unknown,150.75,2025-01-17
+104,Alice Williams,47,Female,,2025-01-18
+105,Chris Martin,54,Male,800.00,2025-01-19
+101,John Doe,28,Male,250.50,2025-01-15
+106,Ella Brown,22,Female,1200.00,2025-01-20
+107,Mike Davis,65,Male,500.00,2025-01-21
+108,Susan Lee,15,Female,75.25,2025-01-22
+109,Tim Cook,102,Male,320.00,2025-01-23
+110,Rachel Green,33,Female,450.00,2025-01-24
+111,Ross Geller,36,Male,510.00,2025-01-25
+112,Monica Geller,34,Female,615.00,2025-01-26
+113,Chandler Bing,37,Male,,2025-01-27
+114,Joey Tribbiani,29,Male,200.00,2025-01-28
+115,Phoebe Buffay,31,Female,900.00,2025-01-29
+116,Karen White,45,Female,1100.00,2025-01-30
+117,Tom Hardy,40,Male,0,2025-01-31
+118,Anna Collins,72,Female,350.00,2025-02-01
+119,David Kim,14,Male,60.00,2025-02-02
+120,Laura Chen,88,Female,150.00,2025-02-03
+121,Mark Young,26,,410.00,2025-02-04
+122,Nancy Drew,,Female,500.00,2025-02-05
+123,Peter Parker,17,Male,999.99,2025-02-06
+124,Bruce Wayne,45,Male,15000.00,2025-02-07
+125,Clark Kent,35,Male,850.00,2025-02-08
